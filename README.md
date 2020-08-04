@@ -1,2 +1,2 @@
 # world-hello
-4 is the magic number
+4 is the magic nbr
